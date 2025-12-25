@@ -9,4 +9,3 @@ power BI(dashboard creations)
 SQL(quaries)
 ## projects:
 coming soon...
-
